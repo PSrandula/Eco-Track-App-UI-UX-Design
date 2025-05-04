@@ -1,10 +1,14 @@
+UI-UX-Designs 
 
-UI-UX-Designs
 This folder contains all the UI/UX designs I've created, showcasing my skills in crafting user-friendly and visually appealing interfaces. Explore a range of concepts and designs tailored for seamless user experiences.
+
 Projects
+
 1. Eco Track App 🌱
+   
 Description:
 Eco Track is a waste management and recycling application designed to help users track their environmental impact. The app includes features like item scanning for waste classification, recycling challenges, insights dashboard, location-based recycling facilities, and reward systems to encourage eco-friendly behaviors.
+
 Key Features:
 
 Loading Page with app tagline and logo
