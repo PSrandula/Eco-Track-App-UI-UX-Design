@@ -25,6 +25,6 @@ Technologies Used:
 
 UI/UX Design: Figma
 
-Links:
+Links: 
 
-Figma Design
+Figma Design - https://www.figma.com/design/i0iSJyOcNbiXk9xtKZPW0J/Eco-Track-App?node-id=0-1&t=nSQakJPIiJsLM0RY-1
